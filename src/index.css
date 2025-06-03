@@ -52,6 +52,8 @@ a {
     align-items: center;
     justify-content: space-between;
     margin: 0 auto;
+    padding-bottom: 50px;
+    background-color: rgb(44, 40, 87);
 }
 
 .nav__logo {
@@ -72,6 +74,10 @@ a {
     font-size: 24px;
     text-align: left;
     margin-left: 8px;
+}
+
+.nav__links {
+  padding-top: 16px;
 }
 
 .nav__link--contact {
